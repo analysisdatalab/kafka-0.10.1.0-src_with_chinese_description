@@ -1,5 +1,9 @@
 Apache Kafka
 =================
+
+### 研究Kafka 0.10.1.0版本，从Producer/Broker/Consumer角度研究，并对源码进行中文注释
+
+
 See our [web site](http://kafka.apache.org) for details on the project.
 
 You need to have [Gradle](http://www.gradle.org/installation) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
